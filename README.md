@@ -1,10 +1,17 @@
+<h1 align="center">React-Redux-TypeScript</h1>
+<br/>
 <h1 align="center">
   <img src="./assets/1_qaQYJcS48yV8oNJO8u8L5w.png"/>
 </h1>
 
 <br/>
 
-<h1>React-Redux-TypeScript</h1>
+
+
+<h1>Sobre</h1>
+
+<p>Um projecto basico, relembrando os conceitos do react-redux com a linguagem typescript
+</p>
 
 <h2>Iniciando o projeto</h2>
 <p>-- yarn start</p>
