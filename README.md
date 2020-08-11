@@ -22,7 +22,9 @@
 
 <h1>Tecnologias</h1>
 :computer:&nbsp<strong>ReactJS</strong>
+<br/>
 :computer:&nbsp<strong>TypeScript</strong>
+<br/>
 :computer:&nbsp<strong>Redux</strong>
 
 <h1>Algumas Imagens</h1>
