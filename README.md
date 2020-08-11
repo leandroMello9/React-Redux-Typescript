@@ -24,7 +24,7 @@
 
 <h1>Algumas Imagens</h1>
 <p>Repositorio</p>
- <img src="./assets/repository_1.png"/>
+ <img src="https://ik.imagekit.io/jbqhfxwn5t/repository_1_qWslM4hfjV.png"/>
  <br/>
  <br/>
  <br/>
