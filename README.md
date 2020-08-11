@@ -31,11 +31,11 @@
  
  <h1>Reducers, Actions e Sagas</h1>
 <h3>Reducers</h3>
- <img src="./assets/reducers.png"/>
+ <img src="https://ik.imagekit.io/jbqhfxwn5t/reducers_dGU3-xrqB.png"/>
  <h3>Actions</h3>
- <img src="./assets/actions.png"/>
+ <img src="https://ik.imagekit.io/jbqhfxwn5t/actions_vuLUF-JrZB.png"/>
  <h3>Sagas</h3>
- <img src="./assets/sagas.png"/>
+ <img src="https://ik.imagekit.io/jbqhfxwn5t/sagas_6d6DMRdJNu-.png"/>
  
 
 
