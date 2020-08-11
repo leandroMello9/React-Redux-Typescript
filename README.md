@@ -29,11 +29,20 @@
  <br/>
  <br/>
  
- <h1>Reducers, Actions e Sagas</h1>
+ <h1>Types,Reducers, Actions e Sagas</h1>
+ <br/>
+ <h3>Types(Reducer/Actions/Sagas)</h3>
+ <img src="https://ik.imagekit.io/jbqhfxwn5t/types_i3mdMPf6KD.png"/>
+ <br/>
+ <br/>
 <h3>Reducers</h3>
  <img src="https://ik.imagekit.io/jbqhfxwn5t/reducers_dGU3-xrqB.png"/>
+ <br/>
+ <br/>
  <h3>Actions</h3>
  <img src="https://ik.imagekit.io/jbqhfxwn5t/actions_vuLUF-JrZB.png"/>
+ <br/>
+ <br/>
  <h3>Sagas</h3>
  <img src="https://ik.imagekit.io/jbqhfxwn5t/sagas_6d6DMRdJNu-.png"/>
  
