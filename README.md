@@ -21,11 +21,11 @@
 <p>Acesse http://localhost:300 no seu navegador</p>
 
 <h1>Tecnologias</h1>
-:computer:&nbsp<strong>ReactJS</strong>
+:computer:&nbsp<strong>ReactJS</strong>https://pt-br.reactjs.org/
 <br/>
-:computer:&nbsp<strong>TypeScript</strong>
+:computer:&nbsp<strong>TypeScript</strong>https://www.typescriptlang.org/
 <br/>
-:computer:&nbsp<strong>Redux</strong>
+:computer:&nbsp<strong>Redux</strong>https://redux.js.org/
 
 <h1>Algumas Imagens</h1>
 <p>Repositorio</p>
