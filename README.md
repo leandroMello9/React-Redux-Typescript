@@ -14,13 +14,16 @@
 </p>
 
 <h2>Iniciando o projeto</h2>
-<p>-- yarn start</p>
+<p>:left_right_arrow: yarn start</p>
+<p>:left_right_arrow: npm start</p>
 
 <h2>Acessando</h2>
 <p>Acesse http://localhost:300 no seu navegador</p>
 
 <h1>Tecnologias</h1>
 :computer:&nbsp<strong>ReactJS</strong>
+:computer:&nbsp<strong>TypeScript</strong>
+:computer:&nbsp<strong>Redux</strong>
 
 <h1>Algumas Imagens</h1>
 <p>Repositorio</p>
