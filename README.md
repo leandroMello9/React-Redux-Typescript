@@ -27,7 +27,7 @@
 <br/>
 :computer:&nbsp<strong>Redux</strong>  https://redux.js.org/
 
-<h1>Algumas Imagens</h1>
+<h1>Imagens</h1>
 <p>Repositorio</p>
  <img src="https://ik.imagekit.io/jbqhfxwn5t/repository_1_qWslM4hfjV.png"/>
  <br/>
