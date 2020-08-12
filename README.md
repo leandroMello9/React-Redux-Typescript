@@ -10,7 +10,7 @@
 
 <h1>Sobre</h1>
 
-<p>Um projecto basico, relembrando os conceitos do react-redux com a linguagem typescript
+<p>Um projeto basico, relembrando os conceitos do react-redux com a linguagem typescript
 </p>
 
 <h2>Iniciando o projeto</h2>
@@ -18,7 +18,7 @@
 <p>:left_right_arrow: npm start</p>
 
 <h2>Acessando</h2>
-<p>Acesse http://localhost:300 no seu navegador</p>
+<p>Acesse http://localhost:3000 no seu navegador</p>
 
 <h1>Tecnologias</h1>
 :computer:&nbsp<strong>ReactJS</strong>  https://pt-br.reactjs.org/
