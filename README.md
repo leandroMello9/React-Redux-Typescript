@@ -21,7 +21,7 @@
 <p>Acesse http://localhost:3000 no seu navegador</p>
 
 <h1>Tecnologias</h1>
-:computer:&nbsp<strong>ReactJS</strong> https://reactnative.dev/
+:computer:&nbsp<strong>ReactJS</strong> https://pt-br.reactjs.org/
 <br/>
 :computer:&nbsp<strong>TypeScript</strong>  https://www.typescriptlang.org/
 <br/>
